@@ -1,1 +1,1 @@
-{"versionCode":26,"versionName":"2.15","url":"/DFRestart.apk","notes":"1. 内置浏览器与两个控制台入口\n2. 平板适配与旋转动画\n3. 支持公网更新源"}
+{"versionCode":27,"versionName":"2.16","url":"/DFRestart.apk","notes":"1. 新增公网更新源，不连热点也能更新\n2. 局域网优先，失败自动走 GitHub 镜像\n3. 内置浏览器与两个控制台入口"}
