@@ -1,1 +1,1 @@
-{"versionCode":27,"versionName":"2.16","url":"/DFRestart.apk","notes":"1. 新增公网更新源，不连热点也能更新\n2. 局域网优先，失败自动走 GitHub 镜像\n3. 内置浏览器与两个控制台入口"}
+{"versionCode":28,"versionName":"2.17","url":"/DFRestart.apk","notes":"1. 新增家里 WiFi 地址 192.168.110.206\n2. 自动识别 110 网段手机\n3. 修复跨网段连不上电脑"}
